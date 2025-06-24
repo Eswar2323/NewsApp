@@ -64,8 +64,12 @@ region-specific searching. It integrates modern Android components to deliver a 
 
 ## 📷 Screenshots
 
-![Home](Screenshots/Headlines.jpg)
+### 🏠 Home Screen
 <img src="Screenshots/Headlines.jpg" alt="Home Screen" width="300"/>
-![WebView](Screenshots/NewsView.jpg)
-![Favorites](Screenshots/Favorites.jpg)
-![Search](Screenshots/SearchView.jpg)
+### 🌐 NewsView with Favorite Button
+<img src="Screenshots/NewsView.jpg" alt="News View" width="300"/>
+### ⭐ Favorites with Swipe Delete
+<img src="Screenshots/Favorites.jpg" alt="Favorites" width="300"/>
+### 🔍 Search Functionality
+<img src="Screenshots/SearchView.jpg" alt="Search View" width="300"/>
+

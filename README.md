@@ -64,4 +64,7 @@ region-specific searching. It integrates modern Android components to deliver a 
 
 ## 📷 Screenshots
 
-[Home](Screenshots/Headlines.jpg)
+![Home](Screenshots/Headlines.jpg)
+![WebView](Screenshots/NewsView.jpg)
+![Favorites](Screenshots/Favorites.jpg)
+![Search](Screenshots/SearchView.jpg)

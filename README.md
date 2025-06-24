@@ -62,3 +62,6 @@ region-specific searching. It integrates modern Android components to deliver a 
 
 ---
 
+## 📷 Screenshots
+
+[Home](Screenshots/Headlines.jpg)

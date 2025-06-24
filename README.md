@@ -51,14 +51,14 @@ region-specific searching. It integrates modern Android components to deliver a 
 
 | Component          | Technology                        |
 |--------------------|------------------------------------|
-| Language            | Kotlin / Java                     |
+| Language            | Kotlin                            |
 | API Integration     | Retrofit + GSON                   |
 | Local Storage       | Room Database                     |
 | UI Components       | RecyclerView, WebView, Snackbar   |
-| Architecture        | MVVM (optional)                   |
+| Architecture        | MVVM                              |
 | Navigation          | Jetpack Navigation Component      |
 | Internet Check      | ConnectivityManager               |
-| Image Loading       | Glide / Picasso                   |
+| Image Loading       | Glide                             |
 
 ---
 
